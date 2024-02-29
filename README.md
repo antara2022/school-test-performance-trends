@@ -58,7 +58,7 @@ During this project, I analyzed the district-wide standardized test results for 
 
 ![](PyCitySchools/school_size.png)
 
-### Step 9 - Scores by School Typeschoo
+### Step 9 - Scores by School Type
 
 * Create a DataFrame that breaks down school performance based on school type (charter or district)
 
